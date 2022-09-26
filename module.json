@@ -17,8 +17,9 @@
     "setup.js",
     "scripts/hooks/render-item-5e-sheet.mjs"
   ],
-  "manifest": "https://github.com/nalgenes/revised-martial-equipment/releases/download/0.1/module.json",
-  "download": "https://github.com/nalgens/revised-martial-equipment/releases/download/0.1/revised-martial-equipment.zip",
+  "url": "https://homebrewery.naturalcrit.com/share/rkvBDfQlE",
+  "manifest": "https://github.com/nalgenes/revised-martial-equipment/releases/download/0.1.1/module.json",
+  "download": "https://github.com/nalgenes/revised-martial-equipment/releases/download/0.1.1/revised-martial-equipment.zip",
   "languages": [
     {
       "lang": "en",
